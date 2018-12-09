@@ -9,7 +9,7 @@ Global Positioning System (GPS) project from Raspberry Pi using Navit *(https://
 # **(Who is it meant for?)**
 This project is meant to help the rare few who are not in possession of a GPS. I know some GPS systems are expensive to afford so using the Raspberry Pi to run Navit for car navigation is a good alternative.
 
-# **(Materials)**
+# **(Components)**
 - https://www.raspberrypi.org/downloads/noobs/ **(OS)**
 - https://www.adafruit.com/product/954 **(USB)**
 - https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ **(Pi)**
